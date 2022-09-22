@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pastacat-class
 - 🌱 I’m currently learning flutter
-- 👀 I’m interested in Javascript too
+- 👀 Now I’m interested in Speech Recognition
 
 <!---
 Pastacat-class/Pastacat-class is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
