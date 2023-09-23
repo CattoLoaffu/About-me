@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CattoLoaffu
-- 🌱 I’m currently Year 3th Student of Naresuan University in bachelor of Computer Science
+- 🌱 I’m currently Year 4th Student of Naresuan University in bachelor of Computer Science
 - 👀 Now I’m interested in Speech Recognition
 
 <!---
